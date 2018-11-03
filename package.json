@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "mkdir -p ./build && cp ./src/index.html ./build/ && webpack -p --config webpack.production.config.js",
-    "start": "PORT=8081 node dev-server.js"
+    "start": "PORT=3000 node prod-server.js"
   },
   "repository": {
     "type": "git",
@@ -48,6 +48,7 @@
     "rafor": "^1.0.2",
     "react": "^0.14.5",
     "react-bootstrap": "^0.28.1",
+    "react-device-detect": "^1.6.1",
     "react-dom": "^0.14.5",
     "react-list": "^0.7.10",
     "react-router": "^1.0.3",
