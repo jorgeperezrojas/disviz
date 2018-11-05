@@ -16,8 +16,5 @@ npm start
 
 # Demo
 
-On-line demo en desarrollo... 
-
-Una visualización de frases de discursos de Bachelet (2014-2018) las pueden ver en el siguiente video (link a twitter):
-
-[Demo](https://twitter.com/perez/status/993291012087967744)
+Una versión online para los discursos de Bachelet (2014-2018) la pueden encontrar en [https://jorgeperezrojas.github.io/](https://jorgeperezrojas.github.io/). 
+El siguiente video muestra un ejemplo (link a twitter) [Demo](https://twitter.com/perez/status/993291012087967744)
