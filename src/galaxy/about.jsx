@@ -13,12 +13,12 @@ function about() {
     <tr><td align='right'>
      <a className='reset-color' 
         target='_blank'
-        href="https://github.com/jorgeperezrojas/disviz#galaxias-de-discursos">Viz? 🤔</a>
+        href="https://github.com/jorgeperezrojas/disviz/blob/master/WHAT.md#galaxias-de-discursos">¿Qué es? 🤔</a>
     </td></tr>
     <tr><td align='right'>
      <a className='reset-color'
         target='_blank'
-        href="https://github.com/jorgeperezrojas/discursos#discursos-presidenciales-chilenos">Data? 🤓</a>
+        href="https://github.com/jorgeperezrojas/discursos#discursos-presidenciales-chilenos">¿Datos? 🤓</a>
     </td></tr>
     <tr>
       <td>

@@ -1,4 +1,4 @@
-# [Galaxias de discursos](http://jorgeperezrojas.github.io): Preguntas frecuentes.
+# [Galaxias de discursos](http://jorgeperezrojas.github.io)
 
 - **¿Qué es lo que veo?**     
 Es una visualización de todos los discursos de la ex-presidenta de Chile [Michelle Bechelet](https://es.wikipedia.org/wiki/Michelle_Bachelet) durante su segundo gobierno (2014-2018). La visualización es presentada como una *galaxia* 👩‍🚀 en donde cada *estrella* ✨ es una oración en un discurso. Las estrellas/oraciones están dispuestas en el espacio formando *cúmulos  de  oraciones  similares* según  los temas que aborda cada frase.
