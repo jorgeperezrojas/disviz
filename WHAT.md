@@ -5,7 +5,7 @@ Es una visualización de todos los discursos de la ex-presidenta Michelle Bechel
 
 - **¿Qué puedo hacer en la visualización?**     
 Puedes moverte libremente como si comandaras una nave espacial 🚀 y explorar todas las oraciones.  Si estás en un computador presiona **H** y aparecerá una ayuda con todas las formas de movimientos. Pro-tip: mueve el mouse mientras mantienes el botón (izquierdo) y la tecla **W** presionadas al mismo tiempo. El siguiente es un  ejemplo  de movimiento:   
-  ![Galaxia](https://media.giphy.com/media/9r75gmGFMypFa3kpsI/giphy.gif)  
+  ![Galaxia](https://github.com/jorgeperezrojas/disviz/blob/master/demo/demo-01.gif?raw=true)  
   Si estás en el celular, puedes simplemente mover el celular como si fuera un *visor* y tu estuvieras dentro de la galaxia. Con un dedo en la pantalla se moverá hacia adelante y con dos hacia atrás.
 
 - **¿Puedo buscar alguna palabra o frase específica?**  
@@ -30,4 +30,3 @@ Comenzamos con Bachelet (2014-2018) porque los datos estaban muy bien ordenados 
 
 - **¿Se puede hacer esto mismo pero con textos de otro tipo?**  
 Sí, se puede. Solo es necesario tener mucho texto y las mismas técnicas se  pueden aplicar. Si tienes una idea que creas interesante para visualizar de esta forma [escríbenos](mailto:jorgeperezrojas@gmail.com).
-
